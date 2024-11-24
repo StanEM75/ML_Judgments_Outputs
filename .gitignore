@@ -1,3 +1,4 @@
 *.csv
 EDA_MICHIGAN_DS.ipynb
 .venv
+~/src/__pycache__/
